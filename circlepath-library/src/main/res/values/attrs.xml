@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleMenu">
+        <attr name="no_of_menu" format="integer" />
+        <attr name="center_bg" format="reference" />
+        <attr name="fab_radius" format="dimension" />
+        <attr name="menu_radius" format="dimension" />
+        <attr name="gap_between_menu_fab" format="dimension" />
+        <attr name="one_menu_drawable" format="reference" />
+        <attr name="two_menu_drawable" format="reference" />
+        <attr name="three_menu_drawable" format="reference" />
+    </declare-styleable>
+</resources>

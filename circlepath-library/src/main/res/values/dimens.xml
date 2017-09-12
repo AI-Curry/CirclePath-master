@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--用于TabHost的Dimen-->
+    <dimen name="bottom_tab_font_size">10.0sp</dimen>
+    <dimen name="bottom_tab_padding_up">6.0dip</dimen>
+    <dimen name="bottom_tab_padding_drawable">2dip</dimen>
+
+    <!-- 用于颜色选取器的尺寸布局 -->
+    <dimen name="color_wheel_radius">116dp</dimen>
+    <dimen name="color_wheel_thickness">8dp</dimen>
+    <dimen name="color_center_halo_radius">60dp</dimen>
+    <dimen name="color_center_radius">54dp</dimen>
+    <dimen name="color_pointer_halo_radius">18dp</dimen>
+    <dimen name="color_pointer_radius">14dp</dimen>
+
+    <!-- 用于颜色选取器的尺寸布局 -->
+    <dimen name="bar_thickness">4dp</dimen>
+    <dimen name="bar_length">240dp</dimen>
+    <dimen name="bar_pointer_radius">6dp</dimen>
+    <dimen name="bar_pointer_halo_radius">14dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="radius_large">40dp</dimen>
+
+    <dimen name="min_height">160dp</dimen>
+    <dimen name="big_circle_radius">20dp</dimen>
+    <dimen name="small_circle_radius">18dp</dimen>
+
+    <dimen name="min_gap">86dp</dimen>
+</resources>

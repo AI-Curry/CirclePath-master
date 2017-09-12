@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.circlepath.MainActivity">
+
+
+    <com.example.circlepath_library.CircleMenu
+        android:id="@+id/circleMenu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:fab_radius="@dimen/big_circle_radius"
+        app:gap_between_menu_fab="@dimen/min_gap"
+        app:one_menu_drawable="@array/drawable1_array"
+        app:menu_radius="@dimen/small_circle_radius"
+        app:no_of_menu="8"/>
+</RelativeLayout>
